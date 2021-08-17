@@ -6,7 +6,7 @@ For more information about my academic and work experience feel free to visit my
 
 ### Data Science Projects
 
-<a href="pdfs/SEPA 2021 Presentation.pdf" class="image fit"><img src="images/SEPA 2021.PNG" alt="SEPA Presentation"></a>
+<a href="https://drive.google.com/file/d/1T94iW5IUkwnFLaAUJdsKU6R2PfD5SCLO/view?usp=sharing" class="image fit"><img src="https://drive.google.com/file/d/1-EcB6UXvcRPqSEPBvuLilFebkOyPAJF5/view?usp=sharing" alt="SEPA Presentation"></a>
 
 ```markdown
 Syntax highlighted code block
