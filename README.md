@@ -1,8 +1,8 @@
 ## Lewis Rincon Castano - Portfolio
 
-This pag [editor on GitHub](https://github.com/lericas/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+For more information about my academic and work experience feel free to visit my LinkedIN profile[editor on GitHub](https://www.linkedin.com/in/lrincas/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Data Science Projects
 
