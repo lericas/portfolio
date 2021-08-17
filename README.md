@@ -6,7 +6,7 @@ For more information about my academic and work experience feel free to visit my
 
 ### Data Science Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="pdfs/SEPA 2021 Presentation.pdf" class="image fit"><img src="images/SEPA 2021.PNG" alt="SEPA Presentation"></a>
 
 ```markdown
 Syntax highlighted code block
