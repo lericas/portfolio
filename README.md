@@ -6,9 +6,9 @@ For more information about my academic and work experience feel free to visit my
 
 ### Data Science Projects
 
- [![Image of SEPA presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI =400x) SEPA 2021 presentation PDF](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf)
- 
- <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI" width="400" />
+<a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf">
+ <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI" alt="SEPA 2021 Presentation" width="400" />
+ </a>
  
 ```markdown
 Syntax highlighted code block
