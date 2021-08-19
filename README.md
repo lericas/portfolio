@@ -4,37 +4,23 @@
  ## Lewis Rincon Castano - Portfolio
 
 For more information about my academic and work experience feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
 </head>
+
 <body>
-
-
-
-
 ### Data Science Projects
 <div class="row">
   <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">AAAA
+    <a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf">
+ <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI" alt="SEPA 2021 Presentation" width="400" />
+ </a>
+ SEPA 2021 Presentation (Software used: Excel and SPSS)
   </div>
   <div class="column">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">BBB
+    <a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf">
+ <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI" alt="SEPA 2021 Presentation" width="400" />
+ </a>
+
+SEPA 2021 Presentation (Software used: Excel and SPSS)
   </div>
   <div class="column">
     <img src="img_mountains.jpg" alt="Mountains" style="width:100%">CCCC
