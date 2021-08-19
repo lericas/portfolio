@@ -1,11 +1,10 @@
-<html>
-<head>
+
  ## Lewis Rincon Castano - Portfolio
 
 For more information about my academic and work experience feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
-</head>
 
-<body>
+
+
 ### Data Science Projects
 
  
