@@ -1,0 +1,108 @@
+---
+title: "Daily Activities Analysis"
+author: "Lewis Rincon Castano"
+date: "8/5/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Installing Packages
+```{r loading_package, include = FALSE}
+library(dplyr)
+library(tidyverse)
+library(ggpubr)
+library(knitr)
+library(readr)
+library(psych)
+library(kableExtra)
+library(skimr)
+library(gtsummary)
+library(rmarkdown)
+library(ggplot2)
+library(png)
+```
+Using the following libraries: dplyr, tidyverse, ggpubr, knitr, readr, psych, kableExtra, skimr, gtsummary, and rmarkdown.
+
+# Importing CSV file to RMarkdown
+
+```{r Reading csv file, include = FALSE}
+
+dailyActivities_csv<- read_csv("dailyActivities.csv")
+dailyActivities_summary_csv<- read_csv("dailyActivities_summary.csv")
+heartrate_seconds_csv<- read_csv("heartrate_seconds_merged.csv")
+
+```
+Importing two csv files to create rmarkdown tables. These tables were filtered out and combined previously. This information is described on main_file.
+
+* dailyActivities_csv<- read_csv("dailyActivities.csv").
+* dailyActivities_summary_csv<- read_csv("dailyActivities_summary.csv").
+* heartrate_seconds_csv<- read_csv("heartrate_seconds_merged.csv")
+
+
+# Summary of the daily activties and heart rate files
+```{r, echo = FALSE}
+kable(summary(dailyActivities_csv)[0:6,3:6], caption = 'Daily Activities Summary')%>%
+  kable_styling(latex_options = "HOLD_position")
+```
+```{r, echo = FALSE}
+kable(summary(dailyActivities_csv)[0:6,7:10], caption = 'Daily Activities Summary')%>%
+  kable_styling(latex_options = "HOLD_position")
+```
+```{r, echo = FALSE}
+kable(summary(dailyActivities_csv)[0:6,11:15], caption = 'Daily Activities Summary')%>%
+  kable_styling(latex_options = "HOLD_position")
+
+```
+
+# Heart Rata Analysis
+```{r Heart Rate Summary, echo = FALSE}
+summary(heartrate_seconds_csv %>%
+  select(Value))
+```
+```{r timeline}
+hist(heartrate_seconds_csv$Value, main="Heart Rate Frequency of BellaBeat Users", xlab="Heart Rate per Minute", border="black", 
+     col="blue") 
+```
+
+
+```{r}
+options(scipen=999)
+ggplot(data=heartrate_seconds_csv, aes(x=Hour_MilitaryTime, y=Value)) +
+  geom_bar(stat="identity", color='#5F9EA0')+
+  theme(axis.text.x=element_text(angle=45, hjust=0.9))
+ 
+```
+
+ 
+
+
+
+# Regression model and graphs from the daily activties file
+
+```{r regression model}
+
+model_dailyActivities = lm(formula = Calories ~ TrackerDistance + VeryActiveDistance + ModeratelyActiveDistance + LightActiveDistance + SedentaryActiveDistance + VeryActiveMinutes + FairlyActiveMinutes + LightlyActiveMinutes +SedentaryMinutes, data = dailyActivities_csv)
+summary(model_dailyActivities)
+```
+
+
+
+
+
+## Correlation formula and result:
+```{r correlation formula}
+cor(dailyActivities_csv$Calories, dailyActivities_csv$TrackerDistance)^2
+```
+## Scatterplox graphic for Calories vs Trtacker Distance
+```{r}
+plot(ggplot(dailyActivities_csv, aes(Calories, TrackerDistance)) +
+  geom_point() +
+  stat_smooth(method = lm))
+
+```
+
+
+## Conclusions:
+We can conclude that Bellabeat users burned an average of 2304 calories, 7638 steps, and more than 35 minutes of active movement on their daily activities using their smart band. Additionally, the number of burn calories is positively correlated to the amount of distance walked. The Bellabeat users reported more heart rate usage between 3 pm and 6 pm with an average of 75-85 pulses per minute.
+
