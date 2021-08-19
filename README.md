@@ -4,29 +4,27 @@
 For more information about my academic and work experience feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
 
 
-
 ### Data Science Projects
 
- 
-    <a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf">
+ <a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf">
  <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI" alt="SEPA 2021 Presentation" width="400" />
  </a>
 
 SEPA 2021 Presentation (Software used: Excel and SPSS)
-  </div>
-  <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">CCCC
-  </div>
-</div>
-
-</body>
-</html>
+  
 <a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf">
  <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI" alt="SEPA 2021 Presentation" width="400" />
  </a>
 
 SEPA 2021 Presentation (Software used: Excel and SPSS)
  
+| [![SEPA 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI)](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf)  | [![SRCD 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG?token=APFL44ZXS7H3UGO2HRHIFNTBE77R4)](https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
+|:---:|:---:|:---:|
+| SEPA 2021 Presentation (Excel and SPSS) | SRCD 2021 Presentation (Excel and SPSS) | http://graphicstock.com |  
+
+
+
+
 ```markdown
 | [![SEPA 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI)](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf)  | [![SRCD 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG?token=APFL44ZXS7H3UGO2HRHIFNTBE77R4)](https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
 |:---:|:---:|:---:|
