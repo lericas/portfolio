@@ -6,17 +6,20 @@ For more information about my academic and work experience feel free to visit my
 
 ### Data Science Projects
 
-| [![SEPA 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI)](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf)  | [![SRCD 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG?token=APFL44ZXS7H3UGO2HRHIFNTBE77R4)](https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
+| [![SEPA 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI)](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf)  | [![SRCD 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG?token=APFL44ZXS7H3UGO2HRHIFNTBE77R4)](https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf) | [![BellaBeat Data Analysis](https://raw.githubusercontent.com/lericas/portfolio/main/images/Bellabeat.PNG?token=APFL443W6IWL73T46GD56KDBFAET4)](https://github.com/lericas/portfolio/blob/main/pdf_files/BellaBeat_Analysis.pdf) |
 |:---:|:---:|:---:|
-| SEPA 2021 Presentation (Excel and SPSS) | SRCD 2021 Presentation (Excel and SPSS) | http://graphicstock.com |  
+| SEPA 2021 Presentation (Excel and SPSS) | SRCD 2021 Presentation (Excel and SPSS) | BelllaBeat (RStudio, Google Data Analysis Certificate) |  
 
 
 
 
 ```markdown
-| [![SEPA 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI)](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf)  | [![SRCD 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG?token=APFL44ZXS7H3UGO2HRHIFNTBE77R4)](https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
-|:---:|:---:|:---:|
-| SEPA 2021 Presentation (Excel and SPSS) | SRCD 2021 Presentation (Excel and SPSS) | http://graphicstock.com |
+AA
+A
+A
+A
+A
+A
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
