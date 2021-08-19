@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel='stylesheet' href='index.css' type='text/css' />
+ <style>
  ## Lewis Rincon Castano - Portfolio
 
 For more information about my academic and work experience feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
@@ -62,3 +64,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ </style>
