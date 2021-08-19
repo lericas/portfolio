@@ -6,7 +6,7 @@ For more information about my academic and work experience feel free to visit my
 
 ### Data Science Projects
 
-  <iframe src="https://drive.google.com/file/d/1T94iW5IUkwnFLaAUJdsKU6R2PfD5SCLO/view?usp=sharing" width="50%" height="250px">
+  <iframe src="https://github.com/lericas/portfolio/blob/main/SEPA%202021.PNG" width="50%" height="250px">
     </iframe>
 
 ```markdown
