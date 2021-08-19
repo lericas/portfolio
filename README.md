@@ -6,8 +6,8 @@ For more information about my academic and work experience feel free to visit my
 
 ### Data Science Projects
 
-  <iframe src="https://github.com/lericas/portfolio/blob/main/SEPA%202021.PNG" width="50%" height="250px">
-    </iframe>
+  <iframe src="https://github.com/lericas/portfolio/blob/281215c91264734e7a979c8b637c56568183b09b/SEPA%202021.PNG" width="50%" height="250px">
+    </iframe><a href="https://github.com/lericas/portfolio/blob/281215c91264734e7a979c8b637c56568183b09b/SEPA%202021%20Presentation.pdf">SEPA 2021 Conference Presentation</a>SEPA 2021 Conference Presentation
 
 ```markdown
 Syntax highlighted code block
