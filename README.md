@@ -13,6 +13,7 @@ For more information about my academic and work experience, feel free to visit m
 * Utilized Microsoft Excel to filter out contact list, create vlookup tables and graphics for data analysis and vizualization.
 * Other software/platform knowledge: SPSS, Qualtrics, Google and Microsoft Forms for survey purposes.
 
+
 ## Certificates Completed
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
