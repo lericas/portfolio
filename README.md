@@ -11,7 +11,7 @@ For more information about my academic and work experience, feel free to visit m
 ## Technical Skills
 * Basic knowledge of R, BigQuery (SQL), Python programming, and Tableau for academic research.
 * Utilized Microsoft Excel to filter out contact list, create vlookup tables and graphics for data analysis and vizualization.
-* Other software/platform knowledge: SPSS, Qualtrics, Google and Microsoft Forms for data collection purposes.
+* Other software/platform knowledge: HTML/CSS, SPSS, Qualtrics, Google and Microsoft Forms for data collection purposes.
 
 
 ## Certificates Completed
