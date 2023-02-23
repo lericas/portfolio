@@ -1,4 +1,4 @@
-# Lewis Rincon Castano - GitHub Portfolio
+# Lewis Rincon Castano - Portfolio
 
 For more information about my academic and work experience, feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
 
@@ -13,10 +13,12 @@ For more information about my academic and work experience, feel free to visit m
 |:---:|:---:|:---:|
 | Tableau - CO2 Emissions - World Map (Part of the Google Data Analytics certificate), July 2021 | Tableau - Global Shark Attack Timeline, November 2021 | TBA - Construction in Progress |
 
-## Technical Skills
-* Basic knowledge of R, BigQuery (SQL), Python programming, and Tableau for academic research: cleaning, analyziing, and vizualizing data.
+## Skills
+* Course experience of data cleaning, modeling, evaluation, and project deployment.
+* Present findings for technical and non-technical audiences,=.
+* Basic knowledge of R (including machine learning models), SQL, JMP Python, and Tableau for academic research..
 * Utilized Microsoft Excel to filter out contact list, create vlookup tables and graphics for data analysis and vizualization.
-* Other software/platform knowledge: HTML/CSS, SPSS, Qualtrics, Google and Microsoft Forms for data collection purposes.
+* Other software/platform knowledge: HTML/CSS, SPSS, Qualtrics, MailChimp, and JMP.
 
 
 ## Certificates Completed
