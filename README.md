@@ -25,6 +25,6 @@ For more information about my academic and work experience, feel free to visit m
 
 * Coursera - [Google Data Analytics](https://www.credly.com/badges/20dd9392-bf2c-47f0-bf27-a92d262c0e96?source=linked_in_profile), July 2021
 * Coursera - [Google Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/B4C8QHZTCVGZ), September 2018
-* LinkedIN Learning - [Excel Essentials Training](https://github.com/lericas/portfolio/blob/main/pdf_files/Excel%20Essential%20Training%20Office%20365.pdf), October 2019
+* Linkedin Learning - [Excel Essentials Training](https://github.com/lericas/portfolio/blob/main/pdf_files/Excel%20Essential%20Training%20Office%20365.pdf), October 2019
 
 
