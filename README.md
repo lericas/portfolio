@@ -9,6 +9,10 @@ For more information about my academic and work experience, feel free to visit m
 |:---:|:---:|:---:|
 | SEPA 2021 Presentation (Excel and SPSS), March 2021 | SRCD 2021 Presentation (Excel and SPSS), April 2021 | Google Data Analysis Certificate, August 2021 |  
 
+| [![Tableau CO2 Emissions](https://user-images.githubusercontent.com/63618675/136846723-3853be04-699e-437b-9682-ff77de0b7087.PNG)](https://public.tableau.com/views/CO2Emissions-WorldMap/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)  | [![Tableau Global Shark Attack](https://raw.githubusercontent.com/lericas/portfolio/main/images/GSA%20dashboard%20picture.png)](https://public.tableau.com/app/profile/lewis.rincon.castano/viz/GSArecords/GSA-Year) | ![KNN](https://raw.githubusercontent.com/lericas/portfolio/main/images/KNN_model_v4.png) |
+|:---:|:---:|:---:|
+| Tableau - CO2 Emissions - World Map (Part of the Google Data Analytics certificate), July 2021 | Tableau - Global Shark Attack Timeline, November 2021 | KNN Classification Model |
+
 | [![Tableau CO2 Emissions](https://user-images.githubusercontent.com/63618675/136846723-3853be04-699e-437b-9682-ff77de0b7087.PNG)](https://public.tableau.com/views/CO2Emissions-WorldMap/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)  | [![Tableau Global Shark Attack](https://raw.githubusercontent.com/lericas/portfolio/main/images/GSA%20dashboard%20picture.png)](https://public.tableau.com/app/profile/lewis.rincon.castano/viz/GSArecords/GSA-Year) | ![TBA](https://raw.githubusercontent.com/lericas/portfolio/main/images/tba.png) |
 |:---:|:---:|:---:|
 | Tableau - CO2 Emissions - World Map (Part of the Google Data Analytics certificate), July 2021 | Tableau - Global Shark Attack Timeline, November 2021 | TBA - Construction in Progress |
