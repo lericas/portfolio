@@ -3,7 +3,7 @@
 For more information about my academic and work experience, feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
 
 
-## Data Analysis Related Projects
+## Data Analytics Projects
 
 | [![SEPA 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI)](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf)  | [![SRCD 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG?token=APFL44ZXS7H3UGO2HRHIFNTBE77R4)](https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf) | [![BellaBeat Data Analysis](https://raw.githubusercontent.com/lericas/portfolio/main/images/Bellabeat.PNG?token=APFL443W6IWL73T46GD56KDBFAET4)](https://www.credly.com/badges/dc11871a-c1e2-4889-8cf8-bfe822634bc4/linked_in_profile) |
 |:---:|:---:|:---:|
