@@ -13,7 +13,9 @@ For more information about my academic and work experience, feel free to visit m
 |:---:|:---:|:---:|
 | Tableau - CO2 Emissions - World Map (Part of the Google Data Analytics certificate) | Tableau - Global Shark Attack Timeline | KNN Classification Model - Turnover Prediction |
 
-
+| [![XgBoost Model](https://user-images.githubusercontent.com/63618675/136846723-3853be04-699e-437b-9682-ff77de0b7087.PNG)](https://public.tableau.com/views/CO2Emissions-WorldMap/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)  | ![TBA](https://raw.githubusercontent.com/lericas/portfolio/main/images/tba.png) | ![TBA](https://raw.githubusercontent.com/lericas/portfolio/main/images/tba.png) |
+|:---:|:---:|:---:|
+| XgBoost Model - Turnover Prediction | TBA - Construction in Progress | TBA - Construction in Progress |
 
 ## Skills
 * Course experience of data cleaning, modeling, evaluation, and project deployment.
