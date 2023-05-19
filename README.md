@@ -1,4 +1,4 @@
-# Lewis Rincon Castano
+# Lewis Rincon Castano - Portfolio Website
 
 For more information about my academic and work experience, feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
 
