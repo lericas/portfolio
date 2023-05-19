@@ -2,6 +2,7 @@ For more information about my academic and work experience, feel free to visit m
 
 
 ## Data Analytics Projects (Click on the image to see the PDF or code file)
+
 | [![SEPA 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI)](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf) | [![SRCD 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG?token=APFL44ZXS7H3UGO2HRHIFNTBE77R4)](https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf)  | [![Tableau Global Shark Attack](https://raw.githubusercontent.com/lericas/portfolio/main/images/GSA%20dashboard%20picture.png)](https://public.tableau.com/app/profile/lewis.rincon.castano/viz/GSArecords/GSA-Year) |
 |:---:|:---:|:---:|
 | SEPA 2021 Presentation (Excel and SPSS) | SRCD 2021 Presentation (Excel and SPSS) | Tableau - Global Shark Attack Timeline |  
