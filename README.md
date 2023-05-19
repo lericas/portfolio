@@ -9,7 +9,7 @@ For more information about my academic and work experience, feel free to visit m
 |:---:|:---:|:---:|
 | SEPA 2021 Presentation (Excel and SPSS) | SRCD 2021 Presentation (Excel and SPSS) | Tableau - Global Shark Attack Timeline |  
 
-| [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png))](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf) | [![KNN](https://raw.githubusercontent.com/lericas/portfolio/main/images/KNN_model_v4.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/KNN_model_v4.pdf) | [![Xgboost Model](https://raw.githubusercontent.com/lericas/portfolio/main/images/xgboost_model.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/xgboost_model_final-turnover_prediction.pdf) |
+| [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf) | [![KNN](https://raw.githubusercontent.com/lericas/portfolio/main/images/KNN_model_v4.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/KNN_model_v4.pdf) | [![Xgboost Model](https://raw.githubusercontent.com/lericas/portfolio/main/images/xgboost_model.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/xgboost_model_final-turnover_prediction.pdf) |
 |:---:|:---:|:---:|
 | City Furniture - Findings Presentation (University of Florida, Spring 2023) | KNN Classification Model - Turnover Prediction | XGBoost Model - Turnover Prediction |
 
