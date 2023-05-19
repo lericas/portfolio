@@ -1,6 +1,6 @@
 # Portfolio Website
 
-For more information about my academic and work experience, feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
+For more information about Lewis Rincon Castano's academic and work experience, feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
 
 
 ## Data Analytics Projects (Click on the image to see the PDF or code file)
