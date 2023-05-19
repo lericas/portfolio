@@ -18,7 +18,7 @@ For more information about my academic and work experience, feel free to visit m
 ## Skills
 * Course experience of data cleaning, modeling, evaluation, and project deployment.
 * Present findings for technical and non-technical audiences.
-* Basic knowledge of R (including machine learning models), SQL, JMP Python, and Tableau for academic research..
+* Basic knowledge of R (including machine learning models), SQL, JMP Python, and Tableau for academic research.
 * Utilized Microsoft Excel to filter out contact list, create vlookup tables and graphics for data analysis and vizualization.
 * Other software/platform knowledge: HTML/CSS, SPSS, Qualtrics, MailChimp, and JMP.
 
