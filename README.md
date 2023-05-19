@@ -1,5 +1,3 @@
-# Lewis Rincon Castano
-
 For more information about my academic and work experience, feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
 
 
