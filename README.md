@@ -13,7 +13,9 @@ For more information about my academic and work experience, feel free to visit m
 |:---:|:---:|:---:|
 | City Furniture - Findings Presentation (University of Florida, Spring 2023) | KNN Classification Model - Turnover Prediction | XGBoost Model - Turnover Prediction |
 
-
+## Education
+* University of Florida, Master of Science in Information Systems and Operations Management, Business Analytics track (Aug 2022-June 2023 Expected).
+* University of Central Florida, Bachelor of Science in Psychology, Clinical Psychology (Jan 2018-Dec 2020).
 
 ## Skills
 * Course experience of data cleaning, modeling, evaluation, and project deployment.
