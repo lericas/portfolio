@@ -11,7 +11,7 @@ For more information about my academic and work experience, feel free to visit m
 
 | [![Tableau Global Shark Attack](https://raw.githubusercontent.com/lericas/portfolio/main/images/GSA%20dashboard%20picture.png)](https://public.tableau.com/app/profile/lewis.rincon.castano/viz/GSArecords/GSA-Year) | [![KNN](https://raw.githubusercontent.com/lericas/portfolio/main/images/KNN_model_v4.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/KNN_model_v4.pdf) | [![Xgboost Model](https://raw.githubusercontent.com/lericas/portfolio/main/images/xgboost_model.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/xgboost_model_final-turnover_prediction.pdf) |
 |:---:|:---:|:---:|
-| City Furniture - Findings Presentation | KNN Classification Model - Turnover Prediction | XGBoost Model - Turnover Prediction |
+| City Furniture - Findings Presentation \n UF DFD(Spring 2023) | KNN Classification Model - Turnover Prediction | XGBoost Model - Turnover Prediction |
 
 
 
