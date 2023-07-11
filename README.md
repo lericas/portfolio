@@ -3,15 +3,24 @@
 For more information about Lewis Rincon Castano's academic and work experience, feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
 
 
-## Data Analytics Projects (Click on the image to see the PDF or code file)
+## Data Analytics Projects
  
-| [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf) | [![KNN](https://raw.githubusercontent.com/lericas/portfolio/main/images/KNN_model_v4.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/KNN_model_v4.pdf) | [![Xgboost Model](https://raw.githubusercontent.com/lericas/portfolio/main/images/xgboost_model.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/xgboost_model_final-turnover_prediction.pdf) |
-|:---:|:---:|:---:|
-| City Furniture - Findings Presentation (University of Florida, Spring 2023) | KNN Classification Model - Turnover Prediction | XGBoost Model - Turnover Prediction |
+| [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf) | [![EDA_CF](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA_CF.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf) |
+|:---:|:---:|
+| City Furniture (CF) - Findings Presentation (University of Florida, Spring 2023) | CF - Exploratory Data Analysis, team assignment |
 
-| [![SEPA 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI)](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf) | [![SRCD 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG?token=APFL44ZXS7H3UGO2HRHIFNTBE77R4)](https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf)  | [![Tableau Global Shark Attack](https://raw.githubusercontent.com/lericas/portfolio/main/images/GSA%20dashboard%20picture.png)](https://public.tableau.com/app/profile/lewis.rincon.castano/viz/GSArecords/GSA-Year) |
-|:---:|:---:|:---:|
-| SEPA 2021 Presentation (Excel and SPSS) | SRCD 2021 Presentation (Excel and SPSS) | Tableau - Global Shark Attack Timeline | 
+| [![KNN](https://raw.githubusercontent.com/lericas/portfolio/main/images/KNN_model_v4.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/KNN_model_v4.pdf) | [![Xgboost Model](https://raw.githubusercontent.com/lericas/portfolio/main/images/xgboost_model.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/xgboost_model_final-turnover_prediction.pdf) |
+|:---:|:---:|
+| KNN Classification Model - Turnover Prediction | XGBoost Model - Turnover Prediction |
+
+| [![SEPA 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI)](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf) | [![SRCD 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG?token=APFL44ZXS7H3UGO2HRHIFNTBE77R4)](https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf)  |
+|:---:|:---:|
+| SEPA 2021 Presentation (Excel and SPSS) | SRCD 2021 Presentation (Excel and SPSS) |
+
+| [!TableauDashboard](https://raw.githubusercontent.com/lericas/portfolio/main/images/tableauDashboard.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/RinconCastanoLewis_Tableau_dashboard.pdf)  | [![Tableau Global Shark Attack](https://raw.githubusercontent.com/lericas/portfolio/main/images/GSA%20dashboard%20picture.png)](https://public.tableau.com/app/profile/lewis.rincon.castano/viz/GSArecords/GSA-Year) |
+|:---:|:---:|
+| Tableau Dashboard Project (PDF and [TBWS file](https://github.com/lericas/portfolio/blob/main/pdf_files/RinconCastanoLewis_Tableau_dashboard.twbx)) | Tableau - Global Shark Attack Timeline | 
+
 
 | [![EDA](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/Python_EDA_BellaBeat_Project_Coursera.ipynb) | [![RandomForest](https://raw.githubusercontent.com/lericas/portfolio/main/images/randForest.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/Python_ML_Models_BellaBeat.ipynb)  | 
 |:---:|:---:|
