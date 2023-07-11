@@ -1,6 +1,6 @@
 # Lewis Rincon Castano
 
-For more information about Lewis Rincon Castano's academic and work experience, feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
+For more information about Lewis Rincon Castano's academic and work experience ([LinkedIN profile](https://www.linkedin.com/in/lrincas/)).
 
 
 ## Data Analytics Projects
