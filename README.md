@@ -1,4 +1,4 @@
-# Portfolio Website
+# LinkedIn:
 
 For more information about Lewis Rincon Castano's academic and work experience, feel free to visit my [LinkedIN profile](https://www.linkedin.com/in/lrincas/).
 
@@ -13,15 +13,19 @@ For more information about Lewis Rincon Castano's academic and work experience, 
 |:---:|:---:|:---:|
 | SEPA 2021 Presentation (Excel and SPSS) | SRCD 2021 Presentation (Excel and SPSS) | Tableau - Global Shark Attack Timeline | 
 
+| [![EDA](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/Python_EDA_BellaBeat_Project_Coursera.ipynb) | [![RandomForest](https://raw.githubusercontent.com/lericas/portfolio/main/images/randForest.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/Python_ML_Models_BellaBeat.ipynb)  | 
+|:---:|:---:|
+| Google - Data Analytics Certificate Project: Exploratory Data Analytics in Python | Random Forest Tree in Python |
+
 ## Education
 * University of Florida, Master of Science in Information Systems and Operations Management, Business Analytics track (Aug 2022-June 2023 Expected).
-* University of Central Florida, Bachelor of Science in Psychology, Clinical Psychology (Jan 2018-Dec 2020).
+* University of Central Florida, Bachelor of Science in Clinical Psychology (Jan 2018-Dec 2020).
 
 ## Skills
-* Course experience of data cleaning, modeling, evaluation, and project deployment.
+* Course experience in data cleaning, modeling, evaluation, and project deployment.
 * Present findings for technical and non-technical audiences.
 * Basic knowledge of R (including machine learning models), SQL, JMP Python, and Tableau for academic research.
-* Utilized Microsoft Excel to filter out contact list, create vlookup tables and graphics for data analysis and vizualization.
+* Utilized Microsoft Excel to perform linear programming, filter out contact lists, and create lookup tables and graphics for data analysis and visualization.
 * Other software/platform knowledge: HTML/CSS, SPSS, Qualtrics, MailChimp, and JMP.
 
 
