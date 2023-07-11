@@ -17,7 +17,7 @@ For more information about Lewis Rincon Castano's academic and work experience, 
 |:---:|:---:|
 | SEPA 2021 Presentation (Excel and SPSS) | SRCD 2021 Presentation (Excel and SPSS) |
 
-| [!TableauDashboard](https://raw.githubusercontent.com/lericas/portfolio/main/images/tableauDashboard.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/RinconCastanoLewis_Tableau_dashboard.pdf)  | [![Tableau Global Shark Attack](https://raw.githubusercontent.com/lericas/portfolio/main/images/GSA%20dashboard%20picture.png)](https://public.tableau.com/app/profile/lewis.rincon.castano/viz/GSArecords/GSA-Year) |
+| [![TableauDashboard](https://raw.githubusercontent.com/lericas/portfolio/main/images/tableauDashboard.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/RinconCastanoLewis_Tableau_dashboard.pdf)  | [![Tableau Global Shark Attack](https://raw.githubusercontent.com/lericas/portfolio/main/images/GSA%20dashboard%20picture.png)](https://public.tableau.com/app/profile/lewis.rincon.castano/viz/GSArecords/GSA-Year) |
 |:---:|:---:|
 | Tableau Dashboard Project (PDF and [TBWS file](https://github.com/lericas/portfolio/blob/main/pdf_files/RinconCastanoLewis_Tableau_dashboard.twbx)) | Tableau - Global Shark Attack Timeline | 
 
