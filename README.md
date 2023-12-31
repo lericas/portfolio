@@ -7,8 +7,8 @@ For more information about Lewis Rincon Castano's academic and work experience (
     <a href="https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb" target="_blank">
       <img class="centered-image" src="https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png" alt="Centered Image">
     </a>
-    <h3 class="image-title">Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023)</h3>
-  </div>
+    <h4 class="image-title">Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023)</h4>
+ </div>
  
 | [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf) | [![EDA_CF](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA_CF.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf) |
 |:---:|:---:|
@@ -49,5 +49,4 @@ For more information about Lewis Rincon Castano's academic and work experience (
 * Coursera - [Google Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/B4C8QHZTCVGZ), September 2018
 * Linkedin Learning - [Excel Essentials Training](https://github.com/lericas/portfolio/blob/main/pdf_files/Excel%20Essential%20Training%20Office%20365.pdf), October 2019
 
-</body>
-</html>
+
