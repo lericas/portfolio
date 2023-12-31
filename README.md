@@ -4,6 +4,9 @@ For more information about Lewis Rincon Castano's academic and work experience (
 
 
 ## Data Analytics Projects
+
+| [![Python Processing Script](https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf) | |:---:|
+| Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023) |
  
 | [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf) | [![EDA_CF](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA_CF.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf) |
 |:---:|:---:|
