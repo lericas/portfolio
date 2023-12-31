@@ -3,7 +3,7 @@
 For more information about Lewis Rincon Castano's academic and work experience ([LinkedIN profile](https://www.linkedin.com/in/lrincas/)).
 
 ## Data Analytics Projects
-| [![Python_Excel_Script](https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png)](https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb) | [![Snowflake Training](https://raw.githubusercontent.com/lericas/portfolio/main/images/snowflake_training.png) |
+| [![Python Excel Script](https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png)](https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb) | [![Snowflake Training](https://raw.githubusercontent.com/lericas/portfolio/main/images/snowflake_training.png) |
 |:---:|:---:|
 | Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023) | Snowflake Hands-On Essentials: Data Warehousing Workshop |
 
