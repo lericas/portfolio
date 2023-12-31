@@ -1,11 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .container {
+      text-align: center;
+    }
+
+    .centered-image {
+      width: 50%; /* Adjust the width as needed */
+      display: block;
+      margin: 0 auto;
+    }
+
+    .image-title {
+      margin-top: 10px; /* Adjust the margin as needed */
+    }
+  </style>
+
 # Lewis Rincon Castano
 
 For more information about Lewis Rincon Castano's academic and work experience ([LinkedIN profile](https://www.linkedin.com/in/lrincas/)).
 
 
 ## Data Analytics Projects
-| [![Python Processing Script](https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png)](https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb)|
-Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023) |
+<body>
+  <div class="container">
+    <a href="https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb" target="_blank">
+      <img class="centered-image" src="https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png" alt="Centered Image">
+    </a>
+    <h3 class="image-title">Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023)</h3>
+  </div>
+
  
 | [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf) | [![EDA_CF](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA_CF.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf) |
 |:---:|:---:|
@@ -45,5 +80,5 @@ Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2
 * Coursera - [Google Data Analytics](https://www.credly.com/badges/20dd9392-bf2c-47f0-bf27-a92d262c0e96?source=linked_in_profile), July 2021
 * Coursera - [Google Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/B4C8QHZTCVGZ), September 2018
 * Linkedin Learning - [Excel Essentials Training](https://github.com/lericas/portfolio/blob/main/pdf_files/Excel%20Essential%20Training%20Office%20365.pdf), October 2019
-
+</body>
 
