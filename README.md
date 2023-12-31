@@ -2,9 +2,7 @@
 
 For more information about Lewis Rincon Castano's academic and work experience ([LinkedIN profile](https://www.linkedin.com/in/lrincas/)).
 
-<a href="https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf">
-  <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png" alt="Python Processing Script" style="width:300px;">
-</a>
+
 ## Data Analytics Projects
 | [![Python Processing Script](<a href="https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf">
   <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png" alt="Python Processing Script" style="width:300px;">
