@@ -2,35 +2,13 @@
 
 For more information about Lewis Rincon Castano's academic and work experience ([LinkedIN profile](https://www.linkedin.com/in/lrincas/)).
 
- <style>
-    body {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
-      text-align: center;
-    }
-
-    .centered-image {
-      width: 80%; /* Adjust the width as needed */
-      max-width: 400px; /* Set a maximum width if desired */
-      margin: 0 auto;
-      display: block;
-    }
-
-    .image-title {
-      margin-top: 10px; /* Adjust the margin as needed */
-    }
-  </style>
-
 ## Data Analytics Projects
-<body>
-  <a href="https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb" target="_blank">
-    <img class="centered-image" src="https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png" alt="Centered Image">
-  </a>
-  <h3 class="image-title">Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023)</h3>
-
+<div class="centered-container">
+    <a href="https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb" target="_blank">
+      <img class="centered-image" src="https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png" alt="Centered Image">
+    </a>
+    <h3 class="image-title">Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023)</h3>
+  </div>
  
 | [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf) | [![EDA_CF](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA_CF.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf) |
 |:---:|:---:|
