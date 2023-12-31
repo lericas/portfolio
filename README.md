@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
+ <style>
     body {
       display: flex;
       align-items: center;
@@ -17,7 +14,8 @@
     }
 
     .centered-image {
-      width: 50%; /* Adjust the width as needed */
+      width: 80%; /* Adjust the width as needed */
+      max-width: 400px; /* Set a maximum width if desired */
       display: block;
       margin: 0 auto;
     }
@@ -40,7 +38,6 @@ For more information about Lewis Rincon Castano's academic and work experience (
     </a>
     <h3 class="image-title">Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023)</h3>
   </div>
-
  
 | [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf) | [![EDA_CF](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA_CF.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf) |
 |:---:|:---:|
@@ -80,5 +77,6 @@ For more information about Lewis Rincon Castano's academic and work experience (
 * Coursera - [Google Data Analytics](https://www.credly.com/badges/20dd9392-bf2c-47f0-bf27-a92d262c0e96?source=linked_in_profile), July 2021
 * Coursera - [Google Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/B4C8QHZTCVGZ), September 2018
 * Linkedin Learning - [Excel Essentials Training](https://github.com/lericas/portfolio/blob/main/pdf_files/Excel%20Essential%20Training%20Office%20365.pdf), October 2019
-</body>
 
+</body>
+</html>
