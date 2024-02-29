@@ -8,7 +8,7 @@ For more information about Lewis Rincon Castano's academic and work experience (
 |:---:|:---:|
 | Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023) | Snowflake Hands-On Essentials: Data Warehousing Workshop |
  
-| [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation_UF.pdf) | [![EDA_CF](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA_CF.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf) |
+| [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation.pdf) | [![EDA_CF](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA_CF.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf) |
 |:---:|:---:|
 | City Furniture (CF) - Findings Presentation (University of Florida, Spring 2023) | CF - Exploratory Data Analysis, team assignment |
 
