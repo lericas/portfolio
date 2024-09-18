@@ -4,7 +4,7 @@ For more information about Lewis Rincon Castano's academic and work experience (
 
 ## Data Analytics Projects
 
-| [![Extract Text from Images](https://raw.githubusercontent.com/lericas/portfolio/main/images/fall%202024%20project%20-%20extracting%20text%20from%20images.png)](https://github.com/lericas/portfolio/blob/main/fall%202024/Extracting%20Text%20from%20Images%20with%20Tesseract%20and%20Hugging%20Face.ipynb)| 
+| <a href="https://github.com/lericas/portfolio/blob/main/fall%202024/Extracting%20Text%20from%20Images%20with%20Tesseract%20and%20Hugging%20Face.ipynb"><img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/fall%202024%20project%20-%20extracting%20text%20from%20images.png" width="400"/></a> | 
 |:---:|
 | Extracting Text from Images with Tesseract and Hugging Face (Fall 2024) |
 
