@@ -5,13 +5,13 @@ For more information about Lewis Rincon Castano's academic and work experience (
 ## Data Analytics Projects
 
 <div align="center">
-  <a href="https://github.com/lericas/portfolio/blob/main/fall%202024/Extracting%20Text%20from%20Images%20with%20Tesseract%20and%20Hugging%20Face.ipynb">
-    <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/fall%202024%20project%20-%20extracting%20text%20from%20images.png" width="400"/>
+  <a href="https://github.com/lericas/portfolio/blob/main/fall%202024/Image_Receipts_To_Text_Extraction_with_Claude_Model.ipynb">
+    <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/claude_model.png" width="400"/>
   </a>
-  <p>Extracting Text from Images with Tesseract and Hugging Face (Fall 2024)</p>
+  <p>Extracting Text of Image Receipts with LLM - CLaude Model</p>
 </div>
 
-| [![Python Script](https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png)](https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb) | [![Snowflake Training](https://raw.githubusercontent.com/lericas/portfolio/main/images/fall%202024%20project%20-%20extracting%20text%20from%20images.png)]([https://achieve.snowflake.com/4c8fdf2c-1af8-4b38-85aa-7e56ec7804ff](https://github.com/lericas/portfolio/blob/main/fall%202024/Extracting%20Text%20from%20Images%20with%20Tesseract%20and%20Hugging%20Face.ipynb)) |
+| [![Python Script](https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png)](https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb) | [![Tesseract Project](https://raw.githubusercontent.com/lericas/portfolio/main/images/fall%202024%20project%20-%20extracting%20text%20from%20images.png)](https://github.com/lericas/portfolio/blob/main/fall%202024/Extracting%20Text%20from%20Images%20with%20Tesseract%20and%20Hugging%20Face.ipynb)) |
 |:---:|:---:|
 | Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023) | Extracting Text from Images with Tesseract and Hugging Face (Fall 2024)|
  
