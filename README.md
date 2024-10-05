@@ -11,9 +11,9 @@ For more information about Lewis Rincon Castano's academic and work experience (
   <p>Extracting Text from Images with Tesseract and Hugging Face (Fall 2024)</p>
 </div>
 
-| [![Python Script](https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png)](https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb) | [![Snowflake Training](https://raw.githubusercontent.com/lericas/portfolio/main/images/snowflake_training.png)](https://achieve.snowflake.com/4c8fdf2c-1af8-4b38-85aa-7e56ec7804ff) |
+| [![Python Script](https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png)](https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb) | [![Snowflake Training](https://raw.githubusercontent.com/lericas/portfolio/main/images/fall%202024%20project%20-%20extracting%20text%20from%20images.png)]([https://achieve.snowflake.com/4c8fdf2c-1af8-4b38-85aa-7e56ec7804ff](https://github.com/lericas/portfolio/blob/main/fall%202024/Extracting%20Text%20from%20Images%20with%20Tesseract%20and%20Hugging%20Face.ipynb)) |
 |:---:|:---:|
-| Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023) | Snowflake Hands-On Essentials: Data Warehousing Workshop (Fall 2023)|
+| Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023) | Extracting Text from Images with Tesseract and Hugging Face (Fall 2024)|
  
 | [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation.pdf) | [![EDA_CF](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA_CF.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf) |
 |:---:|:---:|
