@@ -1,8 +1,6 @@
 # Lewis Rincon Castano
 
-For more information about Lewis Rincon Castano's academic and work experience ([LinkedIN profile](https://www.linkedin.com/in/lrincas/)).
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -163,7 +161,7 @@ For more information about Lewis Rincon Castano's academic and work experience (
     <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/randForest.png" alt="Random Forest Model"/>
     <p>Random Forest Tree in Python</p>
   </a>
-</div>
+
 
 
 
