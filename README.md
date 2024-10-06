@@ -1,14 +1,14 @@
 # Lewis Rincon Castano
 
-For more information about Lewis Rincon Castano's academic and work experience ([LinkedIn profile](https://www.linkedin.com/in/lrincas/)).
+For more information about Lewis Rincon Castano's academic and work experience ([LinkedIN profile](https://www.linkedin.com/in/lrincas/)).
 
 ## Data Analytics Projects
 
 <div align="center">
   <a href="https://github.com/lericas/portfolio/blob/main/fall%202024/Image_Receipts_To_Text_Extraction_with_Claude_Model.ipynb">
-    <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/claude_model.png" width="400" height="300"/>
+    <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/claude_model.png" width="300"/>
   </a>
-  <p>Extracting Text of Image Receipts with LLM - Claude Model</p>
+  <p>Extracting Text of Image Receipts with LLM - CLaude Model</p>
 </div>
 
 | [![Python Script](https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png)](https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb) | [![Tesseract Project](https://raw.githubusercontent.com/lericas/portfolio/main/images/fall%202024%20project%20-%20extracting%20text%20from%20images.png)](https://github.com/lericas/portfolio/blob/main/fall%202024/Extracting%20Text%20from%20Images%20with%20Tesseract%20and%20Hugging%20Face.ipynb) |
@@ -23,13 +23,14 @@ For more information about Lewis Rincon Castano's academic and work experience (
 |:---:|:---:|
 | KNN Classification Model - Turnover Prediction | XGBoost Model - Turnover Prediction |
 
-| [![SEPA 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG)](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf) | [![SRCD 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG)](https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf)  |
+| [![SEPA 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI)](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf) | [![SRCD 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG?token=APFL44ZXS7H3UGO2HRHIFNTBE77R4)](https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf)  |
 |:---:|:---:|
 | SEPA 2021 Presentation (Excel and SPSS) | SRCD 2021 Presentation (Excel and SPSS) |
 
 | [![TableauDashboard](https://raw.githubusercontent.com/lericas/portfolio/main/images/tableauDashboard.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/RinconCastanoLewis_Tableau_dashboard.pdf)  | [![Tableau Global Shark Attack](https://raw.githubusercontent.com/lericas/portfolio/main/images/GSA%20dashboard%20picture.png)](https://public.tableau.com/app/profile/lewis.rincon.castano/viz/GSArecords/GSA-Year) |
 |:---:|:---:|
 | Tableau Dashboard Project (PDF and [TBWS file](https://github.com/lericas/portfolio/blob/main/pdf_files/RinconCastanoLewis_Tableau_dashboard.twbx)) | Tableau - Global Shark Attack Timeline | 
+
 
 | [![EDA](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/Python_EDA_BellaBeat_Project_Coursera.ipynb) | [![RandomForest](https://raw.githubusercontent.com/lericas/portfolio/main/images/randForest.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/Python_ML_Models_BellaBeat.ipynb)  | 
 |:---:|:---:|
@@ -46,8 +47,9 @@ For more information about Lewis Rincon Castano's academic and work experience (
 * Utilized Microsoft Excel to perform linear programming, filter out contact lists, and create lookup tables and graphics for data analysis and visualization.
 * Other software/platform knowledge: HTML/CSS, SPSS, Qualtrics, MailChimp, and JMP.
 
+
 ## Certificates Completed
 
 * Coursera - [Google Data Analytics](https://www.credly.com/badges/20dd9392-bf2c-47f0-bf27-a92d262c0e96?source=linked_in_profile), July 2021
 * Coursera - [Google Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/B4C8QHZTCVGZ), September 2018
-* LinkedIn Learning - [Excel Essentials Training](https://github.com/lericas/portfolio/blob/main/pdf_files/Excel%20Essential%20Training%20Office%20365.pdf), October 2019
+* Linkedin Learning - [Excel Essentials Training](https://github.com/lericas/portfolio/blob/main/pdf_files/Excel%20Essential%20Training%20Office%20365.pdf), October 2019
