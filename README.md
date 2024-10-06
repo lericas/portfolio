@@ -1,57 +1,133 @@
-# Lewis Rincon Castano
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lewis Rincon Castano - Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+    }
 
-For more information about Lewis Rincon Castano's academic and work experience ([LinkedIN profile](https://www.linkedin.com/in/lrincas/)).
+    h1 {
+      text-align: center;
+      color: #333;
+    }
 
-## Data Analytics Projects
+    .tabbed-content {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
 
-<div align="center">
-  <a href="https://github.com/lericas/portfolio/blob/main/fall%202024/Image_Receipts_To_Text_Extraction_with_Claude_Model.ipynb">
-    <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/claude_model.png" width="400"/>
-  </a>
-  <p>Extracting Text of Image Receipts with LLM - CLaude Model</p>
+    .tabs {
+      display: flex;
+      flex-direction: column;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      overflow: hidden;
+      max-width: 250px;
+      margin-right: 20px;
+    }
+
+    .tabs button {
+      padding: 15px;
+      background-color: #fff;
+      border: none;
+      text-align: left;
+      width: 100%;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      font-size: 16px;
+    }
+
+    .tabs button:hover {
+      background-color: #ddd;
+    }
+
+    .content {
+      flex-grow: 1;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+    }
+
+    .content h3, .content p {
+      color: #333;
+    }
+
+    .content img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .hidden {
+      display: none;
+    }
+  </style>
+  <script>
+    function openTab(event, tabName) {
+      const contents = document.getElementsByClassName('content');
+      const buttons = document.getElementsByClassName('tab-button');
+      for (let i = 0; i < contents.length; i++) {
+        contents[i].classList.add('hidden');
+      }
+      for (let i = 0; i < buttons.length; i++) {
+        buttons[i].classList.remove('active');
+      }
+      document.getElementById(tabName).classList.remove('hidden');
+      event.currentTarget.classList.add('active');
+    }
+  </script>
+</head>
+<body>
+
+<h1>Lewis Rincon Castano</h1>
+
+<div class="tabbed-content">
+  <div class="tabs">
+    <button class="tab-button active" onclick="openTab(event, 'projects')">Projects</button>
+    <button class="tab-button" onclick="openTab(event, 'education')">Education</button>
+    <button class="tab-button" onclick="openTab(event, 'skills')">Skills</button>
+    <button class="tab-button" onclick="openTab(event, 'certificates')">Certificates</button>
+  </div>
+
+  <div id="projects" class="content">
+    <h3>Data Analytics Projects</h3>
+    <a href="https://github.com/lericas/portfolio/blob/main/fall%202024/Image_Receipts_To_Text_Extraction_with_Claude_Model.ipynb">
+      <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/claude_model.png" alt="Claude Model Project">
+    </a>
+    <p>Extracting Text of Image Receipts with LLM - Claude Model</p>
+    <!-- Repeat as needed for other projects -->
+  </div>
+
+  <div id="education" class="content hidden">
+    <h3>Education</h3>
+    <p>
+      <strong>University of Florida:</strong> Master of Science in Information Systems and Operations Management, Business Analytics track (Aug 2022 - June 2023 Expected) <br>
+      <strong>University of Central Florida:</strong> Bachelor of Science in Clinical Psychology (Jan 2018 - Dec 2020)
+    </p>
+  </div>
+
+  <div id="skills" class="content hidden">
+    <h3>Skills</h3>
+    <p>
+      Data cleaning, modeling, evaluation, and project deployment. Present findings to technical and non-technical audiences. Proficient in R, Python, SQL, Excel, and Tableau.
+    </p>
+  </div>
+
+  <div id="certificates" class="content hidden">
+    <h3>Certificates</h3>
+    <p>
+      <a href="https://www.credly.com/badges/20dd9392-bf2c-47f0-bf27-a92d262c0e96?source=linked_in_profile" target="_blank">Google Data Analytics (Coursera)</a>, July 2021 <br>
+      <a href="https://www.coursera.org/account/accomplishments/verify/B4C8QHZTCVGZ" target="_blank">Google Technical Support Fundamentals (Coursera)</a>, September 2018
+    </p>
+  </div>
 </div>
 
-| [![Python Script](https://raw.githubusercontent.com/lericas/portfolio/main/images/python_excel_processing.png)](https://github.com/lericas/portfolio/blob/main/RStudio_files/timestamped_excel_processing.ipynb) | [![Tesseract Project](https://raw.githubusercontent.com/lericas/portfolio/main/images/fall%202024%20project%20-%20extracting%20text%20from%20images.png)](https://github.com/lericas/portfolio/blob/main/fall%202024/Extracting%20Text%20from%20Images%20with%20Tesseract%20and%20Hugging%20Face.ipynb) |
-|:---:|:---:|
-| Data Processing Pipeline: Excel to CSV with Timestamp Tracking in Python (Fall 2023) | Extracting Text from Images with Tesseract and Hugging Face (Fall 2024)|
- 
-| [![Final Presentation](https://raw.githubusercontent.com/lericas/portfolio/main/images/CF_final.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20Final%20Presentation.pdf) | [![EDA_CF](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA_CF.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf) |
-|:---:|:---:|
-| City Furniture (CF) - Findings Presentation (University of Florida, Spring 2023) | CF - Exploratory Data Analysis, team assignment |
-
-| [![KNN](https://raw.githubusercontent.com/lericas/portfolio/main/images/KNN_model_v4.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/KNN_model_v4.pdf) | [![Xgboost Model](https://raw.githubusercontent.com/lericas/portfolio/main/images/xgboost_model.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/xgboost_model_final-turnover_prediction.pdf) |
-|:---:|:---:|
-| KNN Classification Model - Turnover Prediction | XGBoost Model - Turnover Prediction |
-
-| [![SEPA 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI)](https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf) | [![SRCD 2021](https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG?token=APFL44ZXS7H3UGO2HRHIFNTBE77R4)](https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf)  |
-|:---:|:---:|
-| SEPA 2021 Presentation (Excel and SPSS) | SRCD 2021 Presentation (Excel and SPSS) |
-
-| [![TableauDashboard](https://raw.githubusercontent.com/lericas/portfolio/main/images/tableauDashboard.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/RinconCastanoLewis_Tableau_dashboard.pdf)  | [![Tableau Global Shark Attack](https://raw.githubusercontent.com/lericas/portfolio/main/images/GSA%20dashboard%20picture.png)](https://public.tableau.com/app/profile/lewis.rincon.castano/viz/GSArecords/GSA-Year) |
-|:---:|:---:|
-| Tableau Dashboard Project (PDF and [TBWS file](https://github.com/lericas/portfolio/blob/main/pdf_files/RinconCastanoLewis_Tableau_dashboard.twbx)) | Tableau - Global Shark Attack Timeline | 
-
-
-| [![EDA](https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/Python_EDA_BellaBeat_Project_Coursera.ipynb) | [![RandomForest](https://raw.githubusercontent.com/lericas/portfolio/main/images/randForest.png)](https://github.com/lericas/portfolio/blob/main/pdf_files/Python_ML_Models_BellaBeat.ipynb)  | 
-|:---:|:---:|
-| Google - Data Analytics Certificate Project: Exploratory Data Analytics in Python | Random Forest Tree in Python |
-
-## Education
-* University of Florida, Master of Science in Information Systems and Operations Management, Business Analytics track (Aug 2022-June 2023 Expected).
-* University of Central Florida, Bachelor of Science in Clinical Psychology (Jan 2018-Dec 2020).
-
-## Skills
-* Course experience in data cleaning, modeling, evaluation, and project deployment.
-* Present findings for technical and non-technical audiences.
-* Basic knowledge of R (including machine learning models), SQL, JMP Python, and Tableau for academic research.
-* Utilized Microsoft Excel to perform linear programming, filter out contact lists, and create lookup tables and graphics for data analysis and visualization.
-* Other software/platform knowledge: HTML/CSS, SPSS, Qualtrics, MailChimp, and JMP.
-
-
-## Certificates Completed
-
-* Coursera - [Google Data Analytics](https://www.credly.com/badges/20dd9392-bf2c-47f0-bf27-a92d262c0e96?source=linked_in_profile), July 2021
-* Coursera - [Google Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/B4C8QHZTCVGZ), September 2018
-* Linkedin Learning - [Excel Essentials Training](https://github.com/lericas/portfolio/blob/main/pdf_files/Excel%20Essential%20Training%20Office%20365.pdf), October 2019
-
-
+</body>
+</html>
