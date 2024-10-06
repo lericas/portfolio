@@ -1,4 +1,6 @@
 # Lewis Rincon Castano
+For more information about my academic and work experience ([LinkedIN profile](https://www.linkedin.com/in/lrincas/)).
+
 ## Data Analytics Projects
 
 <div align="center">
