@@ -1,4 +1,4 @@
-# Lewis Rincon Castano's Portfolio
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -46,7 +46,7 @@
 <body>
 
   <div class="container">
-    <h1>Lewis Rincon Castano's Portfolio</h1>
+    
     <p>For more information about my academic and work experience, please visit my <a href="https://www.linkedin.com/in/lrincas/" target="_blank">LinkedIn profile</a>.</p>
     
     <h2>Data Analytics Projects</h2>
