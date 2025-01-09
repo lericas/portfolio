@@ -1,9 +1,9 @@
-# Lewis Rincon Castano's Portfolio
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+  <title>Lewis Rincon Castano's Portfolio</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -46,13 +46,13 @@
 <body>
 
   <div class="container">
-    
+    <h1>Lewis Rincon Castano's Portfolio</h1>
     <p>For more information about my academic and work experience, please visit my <a href="https://www.linkedin.com/in/lrincas/" target="_blank">LinkedIn profile</a>.</p>
     
     <h2>Data Analytics Projects</h2>
 
     <div class="project">
-      <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/claude_model.png" alt="Claude Model">
+      <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/claude_model.png" alt="Claude Model">
       <div class="project-description">
         <p><a href="https://github.com/lericas/portfolio/blob/main/fall%202024/Image_Receipts_To_Text_Extraction_with_Claude_Model.ipynb" target="_blank">Extracting Text of Image Receipts with LLM - Claude Model</a></p>
       </div>
@@ -89,18 +89,15 @@
     <div class="project">
       <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/KNN_model_v4.png" alt="KNN">
       <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/KNN_model_v4.pdf" target="_blank">KNN Classification Model - Turnover Prediction</a></p>
+        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/KNN_model_v4.pdf" target="_blank">City Furniture Employee Turnover - KNN Classification Model</a></p>
       </div>
     </div>
 
     <div class="project">
       <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/xgboost_model.png" alt="Xgboost Model">
       <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/xgboost_model_final-turnover_prediction.pdf" target="_blank">XGBoost Model - Turnover Prediction</a></p>
+        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/xgboost_model_final-turnover_prediction.pdf" target="_blank">City Furniture Employee Turnover - XGBoost Model</a></p>
       </div>
-    </div>
-
-    
     </div>
 
     <div class="project">
@@ -125,25 +122,4 @@
     </div>
 
     <div class="project">
-      <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/randForest.png" alt="Random Forest">
-      <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/Python_ML_Models_BellaBeat.ipynb" target="_blank">Random Forest Tree in Python</a></p>
-      </div>
-    </div>
-
-      <div class="project">
-      <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/SEPA%202021.PNG" alt="SEPA 2021">
-      <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf" target="_blank"> Southeastern Psychological Association (SEPA)- Narratives of Covid 19 Experices Presentation 2021</a></p>
-      </div>
-    </div>
-
-    <div class="project">
-      <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/SRCD%202021.PNG" alt="SRCD 2021">
-      <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf" target="_blank"> Society Society for Research in Child Development (SRCD) -  Narratives of Covid 19 Experices Presentation 2021 </a></p>
-      </div>
-    </div>
-
-</body>
-</html>
+      <img src="https://raw.githubusercontent
