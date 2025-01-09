@@ -100,18 +100,7 @@
       </div>
     </div>
 
-    <div class="project">
-      <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/SEPA%202021.PNG?token=APFL442CSPMA3U4O32JCCK3BE7TXI" alt="SEPA 2021">
-      <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf" target="_blank">SEPA 2021 Presentation</a></p>
-      </div>
-    </div>
-
-    <div class="project">
-      <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/SRCD%202021.PNG" alt="SRCD 2021">
-      <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf" target="_blank"> Society Society for Research in Child Development (SRCD) 2021 -  Narratives of Covid 19 Experices Presentation </a></p>
-      </div>
+    
     </div>
 
     <div class="project">
@@ -139,6 +128,20 @@
       <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/randForest.png" alt="Random Forest">
       <div class="project-description">
         <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/Python_ML_Models_BellaBeat.ipynb" target="_blank">Random Forest Tree in Python</a></p>
+      </div>
+    </div>
+
+      <div class="project">
+      <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/SEPA%202021.PNG" alt="SEPA 2021">
+      <div class="project-description">
+        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SEPA%202021%20Presentation.pdf" target="_blank"> Southeastern Psychological Association (SEPA)- Narratives of Covid 19 Experices Presentation 2021</a></p>
+      </div>
+    </div>
+
+    <div class="project">
+      <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/SRCD%202021.PNG" alt="SRCD 2021">
+      <div class="project-description">
+        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf" target="_blank"> Society Society for Research in Child Development (SRCD) -  Narratives of Covid 19 Experices Presentation 2021 </a></p>
       </div>
     </div>
   </div>
