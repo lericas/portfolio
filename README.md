@@ -108,9 +108,9 @@
     </div>
 
     <div class="project">
-      <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/SRCD%202021.PNG?token=APFL44ZXS7H3UGO2HRHIFNTBE77R4" alt="SRCD 2021">
+      <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/SRCD%202021.PNG" alt="SRCD 2021">
       <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf" target="_blank">SRCD 2021 Presentation</a></p>
+        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf" target="_blank"> Society Society for Research in Child Development (SRCD) 2021 -  Narratives of Covid 19 Experices Presentation </a></p>
       </div>
     </div>
 
