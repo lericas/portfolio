@@ -144,7 +144,6 @@
         <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/SRCD%202021%20Presentation.pdf" target="_blank"> Society Society for Research in Child Development (SRCD) -  Narratives of Covid 19 Experices Presentation 2021 </a></p>
       </div>
     </div>
-  </div>
 
 </body>
 </html>
