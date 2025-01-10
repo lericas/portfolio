@@ -1,4 +1,4 @@
-# Project Portfolio
+# Lewis Rincon Castano's Project Portfolio
 <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
@@ -43,10 +43,9 @@
 <body>
 
   <div class="container">
-    <h1>Lewis Rincon Castano's Portfolio</h1>
+    <h1>Welcome</h1>
     <p>For more information about my academic and work experience, please visit my <a href="https://www.linkedin.com/in/lrincas/" target="_blank">LinkedIn profile</a>.</p>
-    
-    <h2>Data Analytics Projects</h2>
+  
 
     <div class="project">
       <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/claude_model.png" alt="Claude Model">
