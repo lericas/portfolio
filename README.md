@@ -1,38 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  # Lewis Rincon Castano's Portfolio
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lewis Rincon Castano's Portfolio</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: 'Roboto', sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f4f4f4;
+      background-color: #eceff1;
+      color: #37474f;
+    }
+    header {
+      background-color: #007acc;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
     }
     .container {
       max-width: 800px;
-      margin: 0 auto;
+      margin: 20px auto;
       padding: 20px;
       background: #fff;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
     h1, h2 {
-      color: #333;
-      text-align: center;
+      color: #007acc;
     }
     .project {
       display: flex;
+      flex-direction: column;
       align-items: center;
-      margin-bottom: 20px;
+      margin-bottom: 30px;
     }
     .project img {
-      max-width: 100px;
-      margin-right: 20px;
+      max-width: 100%;
+      height: auto;
+      border: 1px solid #ddd;
+      margin-bottom: 10px;
     }
     .project-description {
-      flex: 1;
+      text-align: center;
     }
     .project-description a {
       color: #007acc;
       text-decoration: none;
+      font-weight: bold;
     }
     .project-description a:hover {
       text-decoration: underline;
@@ -40,9 +54,11 @@
   </style>
 </head>
 <body>
+  <header>
+    <h1>Lewis Rincon Castano's Portfolio</h1>
+  </header>
 
   <div class="container">
-    
     <p>For more information about my academic and work experience, please visit my <a href="https://www.linkedin.com/in/lrincas/" target="_blank">LinkedIn profile</a>.</p>
     
     <h2>Data Analytics Projects</h2>
@@ -78,21 +94,21 @@
     <div class="project">
       <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA_CF.png" alt="EDA_CF">
       <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf" target="_blank">City Furniture Internship - Exploratory Data Analysis in R</a></p>
+        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf" target="_blank">City Furniture Internship - Exploratory Data Analysis</a></p>
       </div>
     </div>
 
     <div class="project">
       <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/KNN_model_v4.png" alt="KNN">
       <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/KNN_model_v4.pdf" target="_blank">City Furniture Employee Turnover - KNN Classification Model in R</a></p>
+        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/KNN_model_v4.pdf" target="_blank">City Furniture Employee Turnover - KNN Classification Model</a></p>
       </div>
     </div>
 
     <div class="project">
       <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/xgboost_model.png" alt="Xgboost Model">
       <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/xgboost_model_final-turnover_prediction.pdf" target="_blank">City Furniture Employee Turnover - XGBoost Model in R</a></p>
+        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/xgboost_model_final-turnover_prediction.pdf" target="_blank">City Furniture Employee Turnover - XGBoost Model</a></p>
       </div>
     </div>
 
