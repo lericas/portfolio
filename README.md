@@ -1,52 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lewis Rincon Castano's Portfolio</title>
+# Lewis Rincon Castano's Portfolio <html lang="en"> 
+<head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <style>
     body {
-      font-family: 'Roboto', sans-serif;
+      font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #eceff1;
-      color: #37474f;
-    }
-    header {
-      background-color: #007acc;
-      color: #fff;
-      padding: 20px 0;
-      text-align: center;
+      background-color: #f4f4f4;
     }
     .container {
       max-width: 800px;
-      margin: 20px auto;
+      margin: 0 auto;
       padding: 20px;
       background: #fff;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
     h1, h2 {
-      color: #007acc;
+      color: #333;
+      text-align: center;
     }
     .project {
       display: flex;
-      flex-direction: column;
       align-items: center;
-      margin-bottom: 30px;
+      margin-bottom: 20px;
     }
     .project img {
-      max-width: 100%;
-      height: auto;
-      border: 1px solid #ddd;
-      margin-bottom: 10px;
+      max-width: 100px;
+      margin-right: 20px;
     }
     .project-description {
-      text-align: center;
+      flex: 1;
     }
     .project-description a {
       color: #007acc;
       text-decoration: none;
-      font-weight: bold;
     }
     .project-description a:hover {
       text-decoration: underline;
@@ -54,11 +41,9 @@
   </style>
 </head>
 <body>
-  <header>
-    <h1>Lewis Rincon Castano's Portfolio</h1>
-  </header>
 
   <div class="container">
+    <h1>Lewis Rincon Castano's Portfolio</h1>
     <p>For more information about my academic and work experience, please visit my <a href="https://www.linkedin.com/in/lrincas/" target="_blank">LinkedIn profile</a>.</p>
     
     <h2>Data Analytics Projects</h2>
