@@ -78,21 +78,21 @@
     <div class="project">
       <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/EDA_CF.png" alt="EDA_CF">
       <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf" target="_blank">City Furniture Internship - Exploratory Data Analysis</a></p>
+        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/City%20Furniture%20_EDA_project.pdf" target="_blank">City Furniture Internship - Exploratory Data Analysis Report in R</a></p>
       </div>
     </div>
 
     <div class="project">
       <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/KNN_model_v4.png" alt="KNN">
       <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/KNN_model_v4.pdf" target="_blank">City Furniture Employee Turnover - KNN Classification Model</a></p>
+        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/KNN_model_v4.pdf" target="_blank">City Furniture Employee Turnover - KNN Classification Model in R</a></p>
       </div>
     </div>
 
     <div class="project">
       <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/xgboost_model.png" alt="Xgboost Model">
       <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/xgboost_model_final-turnover_prediction.pdf" target="_blank">City Furniture Employee Turnover - XGBoost Model</a></p>
+        <p><a href="https://github.com/lericas/portfolio/blob/main/pdf_files/xgboost_model_final-turnover_prediction.pdf" target="_blank">City Furniture Employee Turnover - XGBoost Model in  R</a></p>
       </div>
     </div>
 
