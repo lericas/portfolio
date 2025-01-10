@@ -1,4 +1,5 @@
 # Lewis Rincon Castano's Portfolio
+<head>
   <style>
     body {
       font-family: Arial, sans-serif;
