@@ -48,9 +48,9 @@
   
 
     <div class="project">
-      <img src="https://raw.githubusercontent.com/lericas/portfolio/main/images/claude_model.png" alt="Claude Model">
+      <img src="https://raw.githubusercontent.com/lericas/portfolio/refs/heads/main/images/Screenshot_24-10-2026_122328_www.kaggle.com.jpeg" alt="APS Competition">
       <div class="project-description">
-        <p><a href="https://github.com/lericas/portfolio/blob/main/fall%202024/Image_Receipts_To_Text_Extraction_with_Claude_Model.ipynb" target="_blank">Extracting Text of Image Receipts with LLM - Claude Model</a></p>
+        <p><a href="https://www.kaggle.com/code/lericas/notebook7eece303e0" target="_blank">Airline Passenger Satisfaction Prediction - Kaggle Competition</a></p>
       </div>
     </div>
 
